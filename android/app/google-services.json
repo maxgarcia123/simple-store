@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569115202381",
+    "project_id": "simple-store-56407",
+    "storage_bucket": "simple-store-56407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569115202381:android:c50220a6b53046f134dd04",
+        "android_client_info": {
+          "package_name": "com.simpleStore.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569115202381-s404eq8kfeijr6dltso517tioiprei5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXLBx1uHK4Ue9R9CZmIG6NlKsMhzPos5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569115202381-s404eq8kfeijr6dltso517tioiprei5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
